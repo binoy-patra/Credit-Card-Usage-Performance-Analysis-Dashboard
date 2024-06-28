@@ -1,7 +1,7 @@
 # Credit-Card-Usage-Performance-Analysis-Dashboard
 
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#1.-introduction)
 2. [Objective](#objective)
 3. [Data Overview](#data-overview)
 4. [Tools Used](#tool-used)
