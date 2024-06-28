@@ -51,7 +51,7 @@ The analysis involved:
 4. **Report Generation**: Summarizing the findings and presenting them in this report using Canva.
 
 ## 6. Dashboard
-The PDF Version of the dashboard can be accessed [here](#https://github.com/binoy-patra/Credit-Card-Usage-Performance-Analysis-Dashboard/blob/main/Credit%20Card%20Analysis%20Dashboard.pdf).
+The PDF Version of the dashboard can be accessed [Here](#https://github.com/binoy-patra/Credit-Card-Usage-Performance-Analysis-Dashboard/blob/main/Credit%20Card%20Analysis%20Dashboard.pdf) 
 The interactive dashboard created using Power BI can be accessed 
 
 ## 7. Insights
