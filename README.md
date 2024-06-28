@@ -8,16 +8,18 @@
 5. [Methodology](#methodology)
 6. [Dashboard](#dashboard)
 7. [Insights](#insights)
-   - [Customer Demographic]
-   - [Customer Financial Behaviour]
-   - [Credit Card Usage Analysis]
-   - [Credit Card Performance Analysis]
-   - [Delinquent Accounts]
-   - [Customer Acquisition Cost]
-   - [Expense Type Distribution]
-   - [Customer Satisfaction]
-8. [Week Over Week Change]
-9. [Conclusion]
+   - [Customer Demographic](#customer-demographic)
+   - [Customer Financial Behaviour](#customer-financial-behaviour)
+   - [Credit Card Usage Analysis](#credit-card-usage-analysis)
+   - [Credit Card Performance Analysis](#credit-card-performance-analysis)
+   - [Delinquent Accounts](#delinquent-accounts)
+   - [Customer Acquisition Cost](#customer-acquisition-cost)
+   - [Expense Type Distribution](#expense-type-distribution)
+   - [Customer Satisfaction](#customer-satisfaction)
+8. [Week Over Week Change](#week-over-week-change)
+9. [Conclusion](#conclusion)
+10. [Recommendations](#recommendations)
+11. [Contact Me](#contact-information)
 
 ---
 
@@ -49,7 +51,8 @@ The analysis involved:
 4. **Report Generation**: Summarizing the findings and presenting them in this report using Canva.
 
 ## 6. Dashboard
-The interactive dashboard created using Power BI can be accessed [here](link to the dashboard).
+The PDF Version of the dashboard can be accessed [here](#https://github.com/binoy-patra/Credit-Card-Usage-Performance-Analysis-Dashboard/blob/main/Credit%20Card%20Analysis%20Dashboard.pdf).
+The interactive dashboard created using Power BI can be accessed 
 
 ## 7. Insights
 
@@ -159,12 +162,13 @@ The interactive dashboard created using Power BI can be accessed [here](link to 
   - **Unknown**: 3.2165
 
 ## 8. Week Over Week Change
-- **Total Revenue increased by 5% from last week.**
-- **Total Transaction Count saw a rise of 3%.**
-- **Average Satisfaction Score remained stable.**
-- **Significant increase in transaction amounts in the top 5 states.**
-- **Personal loan uptake increased by 2%.**
 
+- **Customer Count**: There was a slight increase of 0.13% in the customer count, reflecting continued acquisition efforts.
+- **Transaction Count**: There was an increase of 0.03% in the transaction count, suggesting higher customer engagement and activity.
+- **Transaction Amount**: A notable rise in the transaction amount was observed, which is 0.35%, indicating increased spending by customers.
+- **Revenue**: The revenue experienced a substantial increase of 28.8%, demonstrating a positive trend in customer expenditure.
+- **Interest Revenue**: Interest revenue saw a significant rise of 0.01%, which could be attributed to higher revolving balances or increased credit utilization by customers.
+- 
 ## 9. Conclusion
 
 This comprehensive analysis of credit card customer data provides valuable insights into customer demographics, financial behavior, credit card usage patterns, and overall satisfaction. The analysis highlights significant metrics such as total revenue, transaction counts, delinquent accounts, and customer acquisition costs, all of which are crucial for credit card providers to make data-driven decisions. By understanding these metrics, providers can improve customer relationship management, optimize marketing strategies, and enhance financial performance.
@@ -177,3 +181,9 @@ This comprehensive analysis of credit card customer data provides valuable insig
 4. **Cost Optimization**: Analyze and optimize customer acquisition costs to ensure cost-effective growth, particularly for high-cost segments like Platinum cardholders.
 5. **Enhanced Services**: Introduce new services or improve existing ones in top-performing states to capitalize on high revenue potential.
 6. **Expense Monitoring**: Monitor and manage expense types to identify opportunities for cost savings and efficiency improvements.
+
+### Contact Information
+Feel free to contact me for expert insights and innovative solutions in data analytics and interactive dashboard creation.
+- **LinkedIn**: [Binoy Patra](https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub**: [binoy-patra](https://github.com/binoy-patra)
+- **Email**: binoypatra20@gmail.com
